@@ -18,7 +18,7 @@
          Frequency vs Recency
          ![Screen Shot 2022-11-18 at 10 36 46 AM](https://user-images.githubusercontent.com/99359588/202742555-213d7d47-0b05-4bd1-b10e-4a2c202d3522.png)
    
-   2. [Dataset](https://github.com/ThanhNg1712/Data-Engineer-Projects/blob/main/OnlineRetail%20(1).csv.zip)
+   2. [Dataset](https://github.com/ThanhNg1712/Data-Engineer-Projects/blob/main/OnlineRetail%20(1).csv.zip) can be found here!
          
          
    
