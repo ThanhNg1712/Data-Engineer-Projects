@@ -31,8 +31,11 @@
       For a question, if a participant chooses an option, orther options will be N/A
       
       2. This analysis answer this two question
+      
         a) Number of answer for each question
+        
         b) How many respondents answer the same reponse for each question
+        
       3. The analysis using the method: melt dataframe to transpose the data follow question columns, prepare for arregation
      
    2. [Dataset](https://github.com/ThanhNg1712/Data-Engineer-Projects/blob/main/Data%20-%20Survey%20Monkey%20Output.xlsx) can be found here!
