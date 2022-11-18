@@ -3,7 +3,7 @@
 
 
 # Project 1: RFM Customer Segmentation Analysis
-* This projectgoes with:
+* This project goes with:
   1. [Python note book](https://github.com/ThanhNg1712/Data-Engineer-Projects/blob/main/RFM_Customer_Segmentation.ipynb) includes:
       1. Data engineering: Checking, Cleaning missing data, Check classes Balancing
       2. Build classification models: Using clustering to group customer segments, find the optimal number of clusters base on Kmean innertias
@@ -21,5 +21,18 @@
    
    2. [Dataset](https://github.com/ThanhNg1712/Data-Engineer-Projects/blob/main/OnlineRetail%20(1).csv.zip) can be found here!
          
-         
-   
+ # Project 2: Survey Data Analysis
+ 
+ * This project goes with:
+  1. [Python note book](https://github.com/ThanhNg1712/Data-Engineer-Projects/blob/main/Excel_project.ipynb) 
+      1. This data is a very complicated dataset with 100 columns include
+      Question: Questions that are asked participants for their response
+      Subquestion: For each question, there are multiple subquestion which are multiple choice for participant to choose
+      For a question, if a participant chooses an option, orther options will be N/A
+      
+      2. This analysis answer this two question
+        a) Number of answer for each question
+        b) How many respondents answer the same reponse for each question
+      3. The analysis using the method: melt dataframe to transpose the data follow question columns, prepare for arregation
+     
+   2. [Dataset](https://github.com/ThanhNg1712/Data-Engineer-Projects/blob/main/Data%20-%20Survey%20Monkey%20Output.xlsx) can be found here!
