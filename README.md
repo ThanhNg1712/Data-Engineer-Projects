@@ -11,6 +11,7 @@
          Base on the time customer make a purchase, frequency of making purchases and revunue of an order, we can group customer into three segments: 
          Low Value, Mid Value, High Value base on the total score = R + F + M. The scores are labels that are classified using Kmeans
       5. Visualization 
+      
          Frequency vs Revenue
          ![Screen Shot 2022-11-18 at 10 34 14 AM](https://user-images.githubusercontent.com/99359588/202742124-2f054538-e9f8-4024-86a3-0fddf499cf4d.png)
          Recency vs Revenue
